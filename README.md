@@ -22,7 +22,7 @@ I have a passion for puzzles and enjoy digging into the details to develop creat
 **Bachelor of Arts in Engineering, emphasis in Computer Science and Technical Theatre** *Summa Cum Laude* 2005-2009
 - degree program combined engineering fundamentals with a hard science field and a fine arts field
 
-**App Academy Open** June 2022 - December 2022
+**App Academy Open** June 2022 - Present
 - Self-paced immersive software development course with focus on full-stack web development
 
 ## My Journey To Programming
