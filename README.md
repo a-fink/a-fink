@@ -26,7 +26,7 @@ I have a passion for puzzles and enjoy digging into the details to develop creat
 - Self-paced immersive software development course with focus on full-stack web development
 
 ## Certifications
-[Triplebyte Certification](https://triplebyte.com/candidates/certificate) in Back-end, Front-end, Node.js, React, SQL, Algorithms & Data Structures, and General Coding Logic
+[Triplebyte Certification](https://triplebyte.com/tb/aubrey-finkelstein-9xytdik/certificate) in Back-end, Front-end, Node.js, React, SQL, Algorithms & Data Structures, and General Coding Logic
 
 ## My Journey To Programming
 I became interested in programming at a young age when I started teaching myself HTML and designing layouts for other users on an online diary site. In college I continued pursuing this interest with computer science as one of the focuses of my engineering degree. There I learned basic design principals and a few programming languages including C and Java, but never learned how to deploy my solutions outside of a classroom setting. Instead, I used my knowledge of programming and software design to further my studies in technical theatre where I became adept at programming light boards.
