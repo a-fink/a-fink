@@ -24,7 +24,7 @@ Do I sound like a good fit for your team? Get in touch with me:
 - Chosen foci: Computer Science and Technical Theater
 
 **App Academy Open**
-- Self-paced immersive software development course with focus on full-stack web development
+- Self-paced immersive software development bootcamp with a focus on full-stack web development
 
 ## Certifications
 [Triplebyte Certification](https://triplebyte.com/tb/aubrey-finkelstein-9xytdik/certificate) in Back-end, Front-end, Node.js, React, SQL, Algorithms & Data Structures, and General Coding Logic
