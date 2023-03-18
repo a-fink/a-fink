@@ -1,5 +1,7 @@
 # Hello, my name is Aubrey Finkelstein. Welcome to my profile.
 
+## [View My Portfolio](https://aubreyportfolio.netlify.app/)
+
 ## About Me
 Full-Stack Software Engineer specializing in JavaScript / Node.js and React. Looking to leverage my diverse experience and problem-solving skills to build impactful, user-friendly software. 
 
