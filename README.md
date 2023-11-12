@@ -3,9 +3,7 @@
 ## [View My Portfolio](https://aubreyportfolio.netlify.app/)
 
 ## About Me
-Full Stack Software Engineer with a passion for user experience, specializing in JavaScript / TypeScript, Node.js and React. Seeking to leverage my diverse experience and problem-solving skills to build impactful, user-friendly software solutions. 
-
-I have a passion for puzzles and enjoy digging into the details to develop creative solutions. I love connecting with others through my work and believe in technology's ability to improve lives. I strive for continuous improvement, and am eager to continue learning while contributing to a professional development team. In essence, I am a problem solver looking to make an impact.
+Results-driven Software Engineer specializing in JavaScript, TypeScript, Node.js, and React. Passionate about creating seamless user experiences while tackling complex logic problems. Proven track record in full-stack development, collaborating across teams to deliver high-quality solutions that blend user-centric design with technical excellence.
 
 Do I sound like a good fit for your team? Get in touch with me: 
 
